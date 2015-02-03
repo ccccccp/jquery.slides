@@ -3,12 +3,12 @@
 
 初始化插件
 $(".slideInner").slide({
-					slideContainer: $('.slideInner a'),
-					effect: 'easeOutCirc',
-					autoRunTime: 5000,
-					slideSpeed: 1000,
-					nav: true,
-					autoRun: true,
-					prevBtn: $('a.prev'),
-					nextBtn: $('a.next')
-				});
+	slideContainer: $('.slideInner a'),
+	effect: 'easeOutCirc',
+	autoRunTime: 5000,
+	slideSpeed: 1000,
+	nav: true,
+	autoRun: true,
+	prevBtn: $('a.prev'),
+	nextBtn: $('a.next')
+	});
