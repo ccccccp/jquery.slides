@@ -28,6 +28,7 @@ ie8+、google、firefox、360、QQ、欧朋、safi
 
 html实例讲解：
 
+
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
@@ -62,7 +63,6 @@ html实例讲解：
 			});
 		</script>
 	</head>
-
 	<body>
 		<div class="slides">
 			<div class="slideInner">
