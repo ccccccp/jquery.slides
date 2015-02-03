@@ -28,6 +28,8 @@ ie8+、google、firefox、360、QQ、欧朋、safi
 
 html实例讲解：
 
+slides默认会为个个滑块里面的类名为moveElem的元素添加上动画的效果
+元素上的rel属性则是设置对应的 延迟执行时间和动画类型两个属性
 
 	<body>
 		<div class="slides">
