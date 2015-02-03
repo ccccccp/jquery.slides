@@ -22,3 +22,6 @@ $(".slideInner").slide({
 	nextBtn: $('a.next')//右按钮
 	
 	});
+
+兼容性：
+ie8+、google、firefox、360、QQ、欧朋、safi
