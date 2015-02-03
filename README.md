@@ -7,18 +7,18 @@ $(".slideInner").slide({
 
 	slideContainer: $('.slideInner a'),
 	
-	effect: 'easeOutCirc',
+	effect: 'easeOutCirc',//动画类型
 	
-	autoRunTime: 5000,
+	autoRunTime: 5000,//自动轮播时间
 	
-	slideSpeed: 1000,
+	slideSpeed: 1000,//速度
 	
-	nav: true,
+	nav: true,//是否显示左右导航
 	
-	autoRun: true,
+	autoRun: true,//是否自动滚动
 	
-	prevBtn: $('a.prev'),
+	prevBtn: $('a.prev'),//左按钮
 	
-	nextBtn: $('a.next')
+	nextBtn: $('a.next')//右按钮
 	
 	});
