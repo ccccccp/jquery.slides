@@ -1,7 +1,7 @@
 # jquery.slides
-@(示例笔记本)[马克飞象|帮助|Markdown]
+
 一款基于jQuery无缝轮播图插件,支持图内元素动画，可以自定义动画类型
-@(兼容性)[ie8+|google|firefox|360|QQ|欧朋|safi]
+### 兼容性:`ie8+` `google` `firefox` `360` `QQ` `欧朋` `safi`
 ## javascript
 ```javascript
 $(".slideInner").slide({
