@@ -1,5 +1,5 @@
 # jquery.slides
-Know how this guide can be improved? [Suggest an edit!](https://github.com/dimsemenov/PhotoSwipe/blob/master/website/documentation/responsive-images.md)
+
 一款基于jQuery无缝轮播图插件,支持图内元素动画，可以自定义动画类型
 
 初始化插件
