@@ -2,7 +2,7 @@
 一款基于jQuery无缝轮播图插件,支持图内元素动画，可以自定义动画类型
 
 初始化插件
-
+```javascript
 $(".slideInner").slide({
 
 	slideContainer: $('.slideInner a'),
@@ -22,7 +22,7 @@ $(".slideInner").slide({
 	nextBtn: $('a.next')//右按钮
 	
 	});
-
+```
 兼容性：
 ie8+、google、firefox、360、QQ、欧朋、safi
 
@@ -31,7 +31,7 @@ html实例讲解：
 slides默认会为个个滑块里面的类名为moveElem的元素添加上动画的效果
 元素上的rel属性则是设置对应的 延迟执行时间和动画类型两个属性
 每个滑块内可同时添加多个元素
-
+``` html
 	<body>
 		<div class="slides">
 			<div class="slideInner">
@@ -83,5 +83,5 @@ slides默认会为个个滑块里面的类名为moveElem的元素添加上动画
 			</div>
 		</div>
 	</body>
-
+```
 
