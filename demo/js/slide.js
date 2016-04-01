@@ -1,5 +1,5 @@
 /*
- * www.zvioo.com
+ * www.gavinjs.com
  * 2015-01-13
  * slide.1.0.js create by Gavin
  * */
